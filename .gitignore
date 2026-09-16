@@ -1,0 +1,7 @@
+/logs
+/logs_backup
+/weights
+/__pycache__
+/models/__pycache__
+/Tokenizers/__pycache__
+/datasets/__pycache__
